@@ -1,0 +1,2 @@
+# LinuxOnPhone
+building linux chroot
