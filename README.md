@@ -1,5 +1,5 @@
 # LinuxOnPhone
-building linux chroot with go (aarch64 and archlinux only)
+building linux chroot on android with go (aarch64 and archlinux only)
 ## To build
 to build just run
 ```go build main.go```
